@@ -1,0 +1,51 @@
+# 字体
+font = "Fira Code"
+font-size = 18
+
+# 文字颜色
+text-color = #FFFFFF
+
+# 提示符样式
+prompt-background = #00000000
+prompt-background-padding = 0
+prompt-background-corner-radius = 0
+
+# 占位符样式
+placeholder-color = #FFFFFFA8
+placeholder-background = #00000000
+placeholder-background-padding = 0
+placeholder-background-corner-radius = 0
+
+# 输入样式
+input-background = #00000000
+input-background-padding = 0
+input-background-corner-radius = 0
+
+# 默认结果样式
+default-result-background = #00000000
+default-result-background-padding = 4, 10
+default-result-background-corner-radius = 0
+
+# 已选择结果样式
+selection-color = #000000
+selection-background = #CCEEFF
+selection-background-padding = 4, 10
+selection-background-corner-radius = 8
+selection-match-color = #00000000
+
+text-cursor-style = bar         # 光标样式
+prompt-text = "run: "           # 提示符 
+placeholder-text = "..."        # 占位符
+result-spacing = 8              # 结果之间的空隙
+
+width = 1290                    # 宽度
+height = 480                    # 高度
+background-color = #1B1D1EBF    # 背景颜色
+outline-width = 0               # 边框框线宽度，边框框线可以理解为边框外的边框
+outline-color = #080800         # 边框框线颜色
+border-width = 3                # 边框颜色
+border-color = #cceeff          # 边框颜色
+corner-radius = 24              # 圆角半径
+
+scale = true                    # 是否随显示器比例设置而缩放
+anchor = center                 # 启动器位置，center 为中心
