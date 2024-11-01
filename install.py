@@ -26,6 +26,7 @@ def main():
     print("请选择环境：")
     print("1. i3")
     print("2. Sway")
+    print("3. Sway")
     choice = input("请输入选项 (1 或 2): ")
 
     if choice == '1':
